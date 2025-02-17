@@ -14,7 +14,7 @@ Hello! I'm **Luki**, a passionate developer working on various tech projects. I 
 ## 🔧 Tech Stack
 
 - **Programming Languages**: C++, Python, JavaScript
-- **Frameworks & Tools**: GitHub Codespaces, Replit, GitHub Actions, Ngrok, VS Coded
+- **Frameworks & Tools**: GitHub Codespaces, Replit, GitHub Actions, Ngrok, VS Code
 - **Databases**: (Comming soon...)
 
 ## 📫 Contact Me
