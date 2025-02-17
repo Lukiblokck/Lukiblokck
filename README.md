@@ -4,7 +4,7 @@ Hello! I'm **Luki**, a passionate developer working on various tech projects. I 
 
 ## 🌍 Projects
 
-- 🎮 **PYTHYKON ESPORTS** - An esports website.
+- 🎮 **PYTHYKON ESPORTS** - An esports with a community, a bot and a website.
 - 💻 **LukiSOFTWARE** - A basic OS simulation in C++ with a Windows 11-inspired UI.
 - 📱 **BronnikoFyut** - A futuristic social media platform.
 - 💰 **LukiMoneda** - A digital currency project.
