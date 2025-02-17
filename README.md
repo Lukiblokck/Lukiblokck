@@ -9,7 +9,7 @@ Hello! I'm **Luki**, a passionate developer working on various tech projects. I 
 - 📱 **BronnikoFyut** - A futuristic social media platform.
 - 💰 **LukiMoneda** - A digital currency project.
 - 🤖 **PYTHYKON BOT** - A Discord bot using Python & Pycord.
-- 🛠 **Brawniverse System** - A BRAWNIVERSE bot, my official bot for a community of Brawl Starr.
+- 🛠 **Brawniverse System** - A BRAWNIVERSE bot, my official bot for a community of Brawl Stars.
 
 ## 🔧 Tech Stack
 
