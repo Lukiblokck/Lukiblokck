@@ -35,6 +35,7 @@ Hello! I'm **Luki**, a passionate developer working on various tech projects. I 
 - 🌐 [GitHub Profile](https://github.com/lukiblokck)
 - 📨 Email: lukiblokck@gmail.com
 - 💬 Discord: lukiblokck
+- 🪙 Donate US: [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N51DZ1ZN)
 
 ---
 
