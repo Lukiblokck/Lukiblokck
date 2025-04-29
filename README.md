@@ -20,6 +20,13 @@ Hello! I'm **Luki**, a passionate developer working on various tech projects. I 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+## 🖥️ Learning
+
+- 🟩 **Lua** - Currently learning Lua for scripting and game development.
+
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+
+
 ### ⚙️ Frameworks & Tools
 ![GitHub Codespaces](https://img.shields.io/badge/GitHub%20Codespaces-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Replit](https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white)
