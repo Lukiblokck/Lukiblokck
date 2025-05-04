@@ -12,6 +12,8 @@ Hello! I'm **Luki**, a passionate developer working on various tech projects. I 
 - 💰 **LukiMoneda** - A digital currency project.
 - 🤖 **PYTHYKON BOT** - A Discord bot using Python & Pycord.
 - 🛠 **Brawniverse System** - A BRAWNIVERSE bot, my official bot for a community of Brawl Stars.
+- 🏆 **Mega Tours Bot** - I'm contributing on a bot for a server of Stumble Guys.
+- 🥘 **Paella Tours Bot** - Its another bot for a community of Stumble Guys.
 
 ## 🔧 Tech Stack
 
@@ -39,10 +41,13 @@ Hello! I'm **Luki**, a passionate developer working on various tech projects. I 
 
 ## 📫 Contact Me
 
-- 🌐 [GitHub Profile](https://github.com/lukiblokck)
-- 📨 Email: lukiblokck@gmail.com
-- 💬 Discord: lukiblokck
-- 🪙 Donate US: [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N51DZ1ZN)
+- 🌐 [**GitHub Profile**](https://github.com/lukiblokck)
+- 📨 **Email**: lukiblokck@gmail.com
+                lukiblokck@proton.me
+- 💬 **Discord**: lukiblokck
+- 🛩️ **Telegram**: https://t.me/lukiblokck
+- 🪙 **Donate US**:
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N51DZ1ZN)
 
 ---
 
