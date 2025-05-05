@@ -1,11 +1,14 @@
 # 👨‍💻 About Me
-
 Hello! I'm **Luki**, a passionate developer working on various tech projects. I love creating futuristic and modern applications with engaging designs. 🚀  
-
 ![LUKI DEV.BOT](https://img.shields.io/badge/LUKI_DEV.BOT.py-green?style=for-the-badge&logo=python&logoColor=white)
 
-## 🌍 Projects
+## 🎮 Gaming Interests
+- **FNAF** - Love the entire Five Nights at Freddy's saga.
+- **Roblox** - Especially Forsaken, with favorite characters Chance and C00lkidd.
+- **Fortnite** - Love battle royales and the constant updates.
+- **GTA V** - Enjoy the open world and missions.
 
+## 🌍 Projects
 - 🎮 **PYTHYKON ESPORTS** - An esports with a community, a bot, and a website.
 - 💻 **LukiSOFTWARE** - A basic OS simulation in C++ with a Windows 11-inspired UI.
 - 📱 **BronnikoFyut** - A futuristic social media platform.
@@ -16,18 +19,14 @@ Hello! I'm **Luki**, a passionate developer working on various tech projects. I 
 - 🥘 **Paella Tours Bot** - Its another bot for a community of Stumble Guys.
 
 ## 🔧 Tech Stack
-
 ### 🖥️ Programming Languages
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## 🖥️ Learning
-
 - 🟩 **Lua** - Currently learning Lua for scripting and game development.
-
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-
 
 ### ⚙️ Frameworks & Tools
 ![GitHub Codespaces](https://img.shields.io/badge/GitHub%20Codespaces-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -40,7 +39,6 @@ Hello! I'm **Luki**, a passionate developer working on various tech projects. I 
 *(Coming soon...)*
 
 ## 📫 Contact Me
-
 - 🌐 [**GitHub Profile**](https://github.com/lukiblokck)
 - 📨 **Email**: lukiblokck@gmail.com
                 lukiblokck@proton.me
@@ -50,5 +48,4 @@ Hello! I'm **Luki**, a passionate developer working on various tech projects. I 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N51DZ1ZN)
 
 ---
-
 Let's build something amazing together! 🚀🔥
