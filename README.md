@@ -45,7 +45,7 @@ Hello! I'm **Luki**, a passionate developer working on various tech projects. I 
 - 📨 **Email**: lukiblokck@gmail.com
                 lukiblokck@proton.me
 - 💬 **Discord**: lukiblokck
-- 🛩️ **Telegram**: https://t.me/lukiblokck
+- 🛩️ [**Telegram**](https://t.me/lukiblokck)
 - 🪙 **Donate US**:
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N51DZ1ZN)
 
