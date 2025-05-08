@@ -41,8 +41,8 @@ Hello! I'm **Luki**, a passionate developer working on various tech projects. I 
 ## 📫 Contact Me
 - 🌐 [**GitHub Profile**](https://github.com/lukiblokck)
 - 📨 **Email**:
--   lukiblokck@gmail.com
--   lukiblokck@proton.me
+      - lukiblokck@gmail.com
+      - lukiblokck@proton.me
 - 💬 [**Discord**](https://discord.com/users/1121089195230888036)
 - 🛩️ [**Telegram**](https://t.me/lukiblokck)
 - 🪙 **Donate US**:
