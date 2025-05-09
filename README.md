@@ -2,28 +2,62 @@
 Hello! I'm **Luki**, a passionate developer working on various tech projects. I love creating futuristic and modern applications with engaging designs. 🚀  
 ![LUKI DEV.BOT](https://img.shields.io/badge/LUKI_DEV.BOT.py-green?style=for-the-badge&logo=python&logoColor=white)
 
+<details>
+<summary>🧠 My Skills</summary>
+
+## 💻 Programming Skills
+| Language | Proficiency |
+|----------|-------------|
+| Python | ![90%](https://progress-bar.dev/90) |
+| JavaScript | ![75%](https://progress-bar.dev/75) |
+| C++ | ![70%](https://progress-bar.dev/70) |
+| Lua | ![40%](https://progress-bar.dev/40) |
+
+## 🛠️ Tools & Technologies
+| Tool | Proficiency |
+|------|-------------|
+| Discord Bot Development | ![95%](https://progress-bar.dev/95) |
+| Version Control (Git) | ![80%](https://progress-bar.dev/80) |
+| Web Development | ![65%](https://progress-bar.dev/65) |
+| UI/UX Design | ![60%](https://progress-bar.dev/60) |
+</details>
+
 ## 🎮 Gaming Interests
 - **FNAF** - Love the entire Five Nights at Freddy's saga.
 - **Roblox** - Especially Forsaken, with favorite characters Chance and C00lkidd.
 - **Fortnite** - Love battle royales and the constant updates.
 - **GTA V** - Enjoy the open world and missions.
+- **Doki Doki Literature Club** - A very rare and interesting game for people that love literature (and other people).
 
-## 🌍 Projects
+<details>
+<summary>🌍 Projects</summary>
+
+## Current Projects
 - 🎮 **PYTHYKON ESPORTS** - An esports with a community, a bot, and a website.
 - 💻 **LukiSOFTWARE** - A basic OS simulation in C++ with a Windows 11-inspired UI.
 - 📱 **BronnikoFyut** - A futuristic social media platform.
 - 💰 **LukiMoneda** - A digital currency project.
+
+## Discord Bots
 - 🤖 **PYTHYKON BOT** - A Discord bot using Python & Pycord.
 - 🛠 **Brawniverse System** - A BRAWNIVERSE bot, my official bot for a community of Brawl Stars.
 - 🏆 **Mega Tours Bot** - I'm contributing on a bot for a server of Stumble Guys.
 - 🥘 **Paella Tours Bot** - Its another bot for a community of Stumble Guys.
+
+### Project Status
+| Project | Status | Progress |
+|---------|--------|----------|
+| PYTHYKON ESPORTS | Active | ![75%](https://progress-bar.dev/75) |
+| LukiSOFTWARE | In Development | ![60%](https://progress-bar.dev/60) |
+| BronnikoFyut | Planning | ![30%](https://progress-bar.dev/30) |
+| LukiMoneda | Research Phase | ![15%](https://progress-bar.dev/15) |
+</details>
 
 ## 🔧 Tech Stack
 ### 🖥️ Programming Languages
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
 ## 🖥️ Learning
 - 🟩 **Lua** - Currently learning Lua for scripting and game development.
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
@@ -36,7 +70,25 @@ Hello! I'm **Luki**, a passionate developer working on various tech projects. I 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### 🗄️ Databases  
-*(Coming soon...)*
+<div align="center">
+
+| Coming Soon | Status |
+|-------------|--------|
+| MongoDB | ![Planning](https://img.shields.io/badge/Planning-yellow?style=flat-square) |
+| SQL | ![Learning](https://img.shields.io/badge/Learning-blue?style=flat-square) |
+
+</div>
+
+## 📊 GitHub Stats
+<div align="center">
+  
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=lukiblokck&show_icons=true&theme=radical)](https://github.com/lukiblokck)
+  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lukiblokck&layout=compact&theme=radical)](https://github.com/lukiblokck)
+
+![Profile Views](https://komarev.com/ghpvc/?username=lukiblokck&color=blueviolet&style=flat-square)
+  
+</div>
 
 ## 📫 Contact Me
 - 🌐 [**GitHub Profile**](https://github.com/lukiblokck)
@@ -45,8 +97,29 @@ Hello! I'm **Luki**, a passionate developer working on various tech projects. I 
   - lukiblokck@proton.me
 - 💬 [**Discord**](https://discord.com/users/1121089195230888036)
 - 🛩️ [**Telegram**](https://t.me/lukiblokck)
-- 🪙 **Donate US**:
+
+## 🪙 Support My Work
+<div align="center">
+  
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N51DZ1ZN)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com)
+
+</div>
 
 ---
+<div align="center">
+  
+### 💡 Random Dev Joke
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
+### 🎵 Currently Listening To
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=lukiblokck)
+  
+</div>
+
+---
+<div align="center">
+  
 Let's build something amazing together! 🚀🔥
+
+</div>
