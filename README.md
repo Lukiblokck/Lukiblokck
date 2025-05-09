@@ -107,11 +107,43 @@ Hello! I'm **Luki**, a passionate developer working on various tech projects. I 
 ---
 <div align="center">
   
-### 💡 Random Dev Joke
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+### 💡 Random Dev Quote
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+
+### 🎵 My Music
+<details>
+<summary>Click to see what I'm listening to</summary>
+
+| Platform | Username | Status |
+|----------|----------|--------|
+| Spotify | lukiblokck | 🎧 Active |
+
+#### Favorite Genres
+- 🎸 Rock
+- 🎤 Pop
+- 🎧 Electronic
+- 🎼 Game Soundtracks
+
+*Update this section with your actual music preferences!*
+</details>
 
 ### 🎮 Gaming Activity
-[![Discord Presence](https://lanyard.cnrad.dev/api/1121089195230888036)](https://discord.com/users/1121089195230888036)
+<details>
+<summary>Click to see what I'm playing</summary>
+
+| Game | Hours | Status |
+|------|-------|--------|
+| FNAF | 150+ | ⭐ Favorite |
+| Roblox (Forsaken) | 200+ | 🎮 Active Player |
+| Fortnite | 300+ | 🏆 Competitive |
+| GTA V | 100+ | 🌆 Story Completed |
+| Doki Doki Literature Club | 20+ | 📚 Completed |
+
+**Current Game**: *Roblox - Forsaken*  
+**Main Character**: Chance & C00lkidd
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1121089195230888036)](https://discord.com/users/1121089195230888036)
+</details>
   
 </div>
 
