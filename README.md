@@ -119,9 +119,7 @@ Hello! I'm **Luki**, a passionate developer working on various tech projects. I 
 | Spotify | lukiblokck | 🎧 Active |
 
 #### Favorite Genres
-- 🎸 Rock
-- 🎤 Pop
-- 🎧 Electronic
+- 🎧 Phonk / Funk
 - 🎼 Game Soundtracks
 
 *Update this section with your actual music preferences!*
