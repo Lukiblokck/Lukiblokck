@@ -8,18 +8,18 @@ Hello! I'm **Luki**, a passionate developer working on various tech projects. I 
 ## 💻 Programming Skills
 | Language | Proficiency |
 |----------|-------------|
-| Python | ![90%](https://progress-bar.dev/90) |
-| JavaScript | ![75%](https://progress-bar.dev/75) |
-| C++ | ![70%](https://progress-bar.dev/70) |
-| Lua | ![40%](https://progress-bar.dev/40) |
+| Python | ██████████ 90% |
+| JavaScript | ███████▓░░ 75% |
+| C++ | █▓░░░░░░░░ 15% |
+| Lua | ████░░░░░░ 40% |
 
 ## 🛠️ Tools & Technologies
 | Tool | Proficiency |
 |------|-------------|
-| Discord Bot Development | ![95%](https://progress-bar.dev/95) |
-| Version Control (Git) | ![80%](https://progress-bar.dev/80) |
-| Web Development | ![65%](https://progress-bar.dev/65) |
-| UI/UX Design | ![60%](https://progress-bar.dev/60) |
+| Discord Bot Development | █████████▓ 95% |
+| Version Control (Git) | ████████░░ 80% |
+| Web Development | ██████▓░░░ 65% |
+| UI/UX Design | ██████░░░░ 60% |
 </details>
 
 ## 🎮 Gaming Interests
@@ -47,17 +47,15 @@ Hello! I'm **Luki**, a passionate developer working on various tech projects. I 
 ### Project Status
 | Project | Status | Progress |
 |---------|--------|----------|
-| PYTHYKON ESPORTS | Active | ![75%](https://progress-bar.dev/75) |
-| LukiSOFTWARE | In Development | ![60%](https://progress-bar.dev/60) |
-| BronnikoFyut | Planning | ![30%](https://progress-bar.dev/30) |
-| LukiMoneda | Research Phase | ![15%](https://progress-bar.dev/15) |
+| PYTHYKON ESPORTS | Active | ███████▓░░ 75% |
+| LukiSOFTWARE | In Development | ██████░░░░ 60% |
+| BronnikoFyut | Planning | ███░░░░░░░ 30% |
+| LukiMoneda | Research Phase | █▓░░░░░░░░ 15% |
 </details>
 
 ## 🔧 Tech Stack
 ### 🖥️ Programming Languages
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ## 🖥️ Learning
 - 🟩 **Lua** - Currently learning Lua for scripting and game development.
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
@@ -112,8 +110,8 @@ Hello! I'm **Luki**, a passionate developer working on various tech projects. I 
 ### 💡 Random Dev Joke
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
-### 🎵 Currently Listening To
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=lukiblokck)
+### 🎮 Gaming Activity
+[![Discord Presence](https://lanyard.cnrad.dev/api/1121089195230888036)](https://discord.com/users/1121089195230888036)
   
 </div>
 
