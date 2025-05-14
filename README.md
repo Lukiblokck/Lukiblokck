@@ -45,12 +45,13 @@ Hello! I'm **Luki**, a passionate developer working on various tech projects. I 
 - 🥘 **Paella Tours Bot** - Its another bot for a community of Stumble Guys.
 
 ### Project Status
-| Project | Status | Progress |
-|---------|--------|----------|
-| PYTHYKON ESPORTS | Active | ███████▓░░ 75% |
-| LukiSOFTWARE | In Development | ██████░░░░ 60% |
-| BronnikoFyut | Planning | ███░░░░░░░ 30% |
-| LukiMoneda | Research Phase | █▓░░░░░░░░ 15% |
+| Project         | Status         | Progress        |
+|-----------------|----------------|-----------------|
+| BRAWNIVERSE     | Highly Active  | █████████▓ 99%  |
+| PYTHYKON ESPORTS| Active         | ███████▓░░ 75%  |
+| LukiSOFTWARE    | In Development | ██████░░░░ 60%  |
+| BronnikoFyut    | Planning       | ███░░░░░░░ 30%  |
+| LukiMoneda      | Research Phase | █▓░░░░░░░░ 15%  |
 </details>
 
 ## 🔧 Tech Stack
