@@ -96,6 +96,7 @@ Hello! I'm **Luki**, a passionate developer working on various tech projects. I 
   - lukiblokck@proton.me
 - 💬 [**Discord**](https://discord.com/users/1121089195230888036)
 - 🛩️ [**Telegram**](https://t.me/lukiblokck)
+- 🌐 [**Web**]("https://lukiblokck.github.io")
 
 ## 🪙 Support My Work
 <div align="center">
