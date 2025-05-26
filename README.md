@@ -98,6 +98,13 @@ Hello! I'm **Luki**, a passionate developer working on various tech projects. I 
 - 🛩️ [**Telegram**](https://t.me/lukiblokck)
 - 🌐 [**Web**]("https://lukiblokck.github.io")
 
+## 🔵 Discord
+<div align="center">
+  
+[![Discord Presence](https://lanyard.cnrad.dev/api/1121089195230888036)](https://discord.com/users/1121089195230888036)
+
+</div>
+
 ## 🪙 Support My Work
 <div align="center">
   
@@ -108,13 +115,6 @@ Hello! I'm **Luki**, a passionate developer working on various tech projects. I 
 
 ---
 <div align="center">
-
-## Discord
-<div align="center">
-  
-[![Discord Presence](https://lanyard.cnrad.dev/api/1121089195230888036)](https://discord.com/users/1121089195230888036)
-
-</div>
   
 ### 💡 Random Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
