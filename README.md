@@ -10,6 +10,8 @@ Hello! I'm **Luki**, a passionate developer working on various tech projects. I 
 |----------|-------------|
 | Python | ██████████ 90% |
 | JavaScript | ███████▓░░ 75% |
+| HTML | ███████▓░░ 75% |
+| CSS | ███████▓░░ 75% |
 | C++ | █▓░░░░░░░░ 15% |
 | Lua | ████░░░░░░ 40% |
 
