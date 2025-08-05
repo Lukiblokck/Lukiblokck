@@ -13,7 +13,7 @@ Hello! I'm **Luki**, a passionate developer working on various tech projects. I 
 | HTML | ███████▓░░ 75% |
 | CSS | ███████▓░░ 75% |
 | C++ | █▓░░░░░░░░ 15% |
-| Lua | ████░░░░░░ 40% |
+| Lua | ██████▓░░░ 60% |
 
 ## 🛠️ Tools & Technologies
 | Tool | Proficiency |
