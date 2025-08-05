@@ -61,7 +61,7 @@ Hello! I'm **Luki**, a passionate developer working on various tech projects. I 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ## 🖥️ Learning
 - 🟩 **C++** - Currently learning C++ for game development and Arduino.
-![C++](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white](https://img.shields.io/badge/C++-2C2D72?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C++-2C2D72?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### ⚙️ Frameworks & Tools
 ![GitHub Codespaces](https://img.shields.io/badge/GitHub%20Codespaces-181717?style=for-the-badge&logo=github&logoColor=white)
