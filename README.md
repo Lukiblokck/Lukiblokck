@@ -3,7 +3,7 @@
 
 I started programming in 2017, experimenting with bots, web pages, and games. Since then, I've grown into a developer passionate about learning new technologies and building projects that challenge me.
 
-Over the years, I've created Discord bots, Roblox games, websites, and even explored C++ and Godot Engine. My journey has been full of experimentation, learning, and fun—driven by curiosity and the love of creating.
+Over the years, I've created Discord bots, Roblox games, websites, and even explored C++ and Godot Engine. My journey has been full of experimentation, learning, and fun—driven by curiosity and the love of creating. 🌟
 
 ![LUKI DEV.BOT](https://img.shields.io/badge/LUKI_DEV.BOT.py-green?style=for-the-badge&logo=python&logoColor=white)
 
