@@ -1,5 +1,5 @@
 # 👨‍💻 About Me
-Hello! I'm **Luki**, a passionate developer working on various tech projects. I love creating futuristic and modern applications with engaging designs. 🚀  
+## Hello! I'm **Luki**, a passionate developer working on various tech projects. I love creating futuristic and modern applications with engaging designs. 🚀  
 ![LUKI DEV.BOT](https://img.shields.io/badge/LUKI_DEV.BOT.py-green?style=for-the-badge&logo=python&logoColor=white)
 
 <details>
