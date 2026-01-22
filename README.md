@@ -32,13 +32,24 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lukiblokck&" alt="Lukiblokck" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lukiblokck&show_icons=true&locale=en&layout=compact" alt="Lukiblokck" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Lukiblokck" alt="Lukiblokck" /></a></p>
-<h2>Contact Me</h2>
-- 🌐 [**GitHub Profile**](https://github.com/lukiblokck)
-- 📨 **Email**:
-  - lukiblokck@proton.me
-- 💬 [**Discord**](https://discord.com/users/1121089195230888036)
-- 🛩️ [**Telegram**](https://t.me/lukiblokck)
-- 🌐 [**Web**](https://lukiblokck.github.io)
+<h2>📬 Contact Me</h2>
+
+<p>
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20"> <b>GitHub:</b> 
+  <a href="https://github.com/lukiblokck" target="_blank">github.com/lukiblokck</a><br>
+
+  📧 <b>Email:</b> 
+  <a href="mailto:lukiblokck@proton.me">lukiblokck@proton.me</a><br>
+
+  💬 <b>Discord:</b> 
+  <a href="https://discord.com/users/1121089195230888036" target="_blank">Contact me</a><br>
+
+  🛩️ <b>Telegram:</b> 
+  <a href="https://t.me/lukiblokck" target="_blank">@lukiblokck</a><br>
+
+  🌐 <b>Website:</b> 
+  <a href="https://lukiblokck.github.io" target="_blank">lukiblokck.github.io</a>
+</p>
 <h2>🔵 Discord</h2>
 <div align="center">
   
