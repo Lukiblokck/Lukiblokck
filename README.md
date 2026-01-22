@@ -32,6 +32,17 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lukiblokck&" alt="Lukiblokck" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lukiblokck&show_icons=true&locale=en&layout=compact" alt="Lukiblokck" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Lukiblokck" alt="Lukiblokck" /></a></p>
+<h2>Contact Me</h2>
+- 🌐 [**GitHub Profile**](https://github.com/lukiblokck)
+- 📨 **Email**:
+  - lukiblokck@proton.me
+- 💬 [**Discord**](https://discord.com/users/1121089195230888036)
+- 🛩️ [**Telegram**](https://t.me/lukiblokck)
+- 🌐 [**Web**](https://lukiblokck.github.io)
+<h2>🔵 Discord</h2>
+<div align="center">
+  
+[![Discord Presence](https://lanyard.cnrad.dev/api/1121089195230888036)](https://discord.com/users/1121089195230888036)
 <h2>❤️ Support Me</h2>
 <p><p>
 <a href="https://www.buymeacoffee.com/lukiblokck">
