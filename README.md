@@ -42,10 +42,21 @@ Over the years, I've created Discord bots, Roblox games, websites, and even expl
 <a target="_blank" href="https://www.linkedin.com/in/nikolai-meléndez-bronnikov-3947982b8" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/lukiblokck" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
 <a target="_blank" href="https://www.youtube.com/@lukiblokck_juega" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Lukiblokck&show_icons=true&locale=en" alt="Lukiblokck" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lukiblokck&" alt="Lukiblokck" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lukiblokck&show_icons=true&locale=en&layout=compact" alt="Lukiblokck" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Lukiblokck" alt="Lukiblokck" /></a></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lukiblokck&show_icons=true&bg_color=000000&title_color=00ff00&text_color=ff66ff&icon_color=00ff00&border_color=00ff00" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lukiblokck&background=000000&ring=00ff00&fire=ff66ff&currStreakLabel=00ff00&sideLabels=00ff00&currStreakNum=ff66ff&sideNums=ff66ff&dates=aaaaaa" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukiblokck&layout=compact&bg_color=000000&title_color=00ff00&text_color=ff66ff&border_color=00ff00" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Lukiblokck&theme=matrix&no-frame=true" />
+</p>
 <h2>📬 Contact Me</h2>
 
 <p>
