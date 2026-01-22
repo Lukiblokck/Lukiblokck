@@ -1,5 +1,19 @@
 <h1>Hi 👋, I'm Lukiblokck!</h1>
-<p>A passionate developer from Russia</p>
+<h2>👨‍💻 About Me</h2>
+
+<h2>Hello! I'm <b>Luki</b>, a passionate developer working on various tech projects. I love creating futuristic and modern applications with engaging designs. 🚀</h2>
+
+<p>
+I started programming in 2017, experimenting with bots, web pages, and games. Since then, I've grown into a developer passionate about learning new technologies and building projects that challenge me.
+</p>
+
+<p>
+Over the years, I've created Discord bots, Roblox games, websites, and even explored C++ and Godot Engine. My journey has been full of experimentation, learning, and fun—driven by curiosity and the love of creating. 🌟
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/LUKI_DEV.BOT.py-green?style=for-the-badge&logo=python&logoColor=white" alt="LUKI DEV BOT">
+</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
