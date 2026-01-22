@@ -1,5 +1,4 @@
 <h1>Hi 👋, I'm Lukiblokck!</h1>
-<h2>👨‍💻 About Me</h2>
 
 <h3>Hello! I'm <b>Luki</b>, a passionate developer working on various tech projects. I love creating futuristic and modern applications with engaging designs. 🚀</h3>
 
