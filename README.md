@@ -4,7 +4,7 @@
 <h3>Hello! I'm <b>Luki</b>, a passionate developer working on various tech projects. I love creating futuristic and modern applications with engaging designs. 🚀</h3>
 
 <p>
-I started programming in 2017, experimenting with bots, web pages, and games. Since then, I've grown into a developer passionate about learning new technologies and building projects that challenge me.
+I started programming in 2017, with Scratch. Since then, I've grown into a developer passionate about learning new technologies and building projects that challenge me.
 </p>
 
 <p>
