@@ -1,86 +1,137 @@
-<h1>Hi 👋, I'm Lukiblokck!</h1>
-
-<h3>Hello! I'm <b>Luki</b>, a passionate developer working on various tech projects. I love creating futuristic and modern applications with engaging designs. 🚀</h3>
-
-<p>
-I started programming in 2017, with Scratch. Since then, I've grown into a developer passionate about learning new technologies and building projects that challenge me.
-</p>
-
-<p>
-Over the years, I've created Discord bots, Roblox games, websites, and even explored C++ and Godot Engine. My journey has been full of experimentation, learning, and fun—driven by curiosity and the love of creating. 🌟
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/LUKI_DEV.BOT.py-green?style=for-the-badge&logo=python&logoColor=white" alt="LUKI DEV BOT">
-</p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
-<h2>👨‍🎓 Languages ​​and Tools I am learning</h2>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
-<a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a></p>
-<h2>✒️ Recent Posts</h2>
-<ul>
-<li><a target="_blank" href="https://github.com/Bronnikov-Studios">Bronnikov Studios</a></li>
-<li><a target="_blank" href="https://bronnikov.gamejolt.io">Bronnikov Studios Gamejolt</a></li>
-<li><a target="_blank" href=""></a></li>
-<li><a target="_blank" href=""></a></li>
-<li><a target="_blank" href=""></a></li>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://x.com/lukiblokck" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
-<a target="_blank" href="https://dev.to/lukiblokck" style="display: inline-block;"><img src="https://img.shields.io/badge/dev-to?style=for-the-badge&logo=dev-to&logoColor=white&color=black" alt="dev.to" /></a>
-<a target="_blank" href="https://www.linkedin.com/in/nikolai-meléndez-bronnikov-3947982b8" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="https://www.instagram.com/lukiblokck" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
-<a target="_blank" href="https://www.youtube.com/@lukiblokck_juega" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lukiblokck&show_icons=true&bg_color=000000&title_color=00ff00&text_color=ff66ff&icon_color=00ff00&border_color=00ff00" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lukiblokck&background=000000&ring=00ff00&fire=ff66ff&currStreakLabel=00ff00&sideLabels=00ff00&currStreakNum=ff66ff&sideNums=ff66ff&dates=aaaaaa" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukiblokck&layout=compact&bg_color=000000&title_color=00ff00&text_color=ff66ff&border_color=00ff00" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lukiblokck&theme=matrix&no-frame=true" />
-</p>
-<h2>📬 Contact Me</h2>
-
-<p>
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20"> <b>GitHub:</b> 
-  <a href="https://github.com/lukiblokck" target="_blank">github.com/lukiblokck</a><br>
-
-  📧 <b>Email:</b> 
-  <a href="mailto:lukiblokck@proton.me">lukiblokck@proton.me</a><br>
-
-  💬 <b>Discord:</b> 
-  <a href="https://discord.com/users/1121089195230888036" target="_blank">Contact me</a><br>
-
-  🛩️ <b>Telegram:</b> 
-  <a href="https://t.me/lukiblokck" target="_blank">@lukiblokck</a><br>
-
-  🌐 <b>Website:</b> 
-  <a href="https://lukiblokck.github.io" target="_blank">lukiblokck.github.io</a>
-</p>
-<h2>🔵 Discord</h2>
 <div align="center">
-  
-[![Discord Presence](https://lanyard.cnrad.dev/api/1121089195230888036)](https://discord.com/users/1121089195230888036)
-<h2>❤️ Support Me</h2>
-<p><p>
-<a href="https://www.buymeacoffee.com/lukiblokck">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="buymeacoffee" />
-</a>
-</p>
-</p>
+
+```
+██╗     ██╗   ██╗██╗  ██╗██╗
+██║     ██║   ██║██║ ██╔╝██║
+██║     ██║   ██║█████╔╝ ██║
+██║     ██║   ██║██╔═██╗ ██║
+███████╗╚██████╔╝██║  ██╗██║
+╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝
+```
+
+### `> I build things that shouldn't exist yet.`
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Developer+since+2017;Discord+Bots+%7C+Web+Apps+%7C+Embedded+Systems;Always+building%2C+always+learning)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## 👾 About Me
+
+```python
+class Luki:
+    name       = "Nikolai Meléndez Bronnikov"
+    alias      = "Lukiblokck"
+    location   = "Bilbao, Basque Country 🇪🇸"
+    started    = 2017  # Scratch → and never stopped
+
+    stack      = ["Python", "JavaScript", "HTML/CSS", "Bash"]
+    learning   = ["C++", "C#", "MongoDB", "Arduino"]
+    
+    building   = ["Discord bots", "Web apps", "Embedded systems", "Game projects"]
+    
+    contact    = "lukiblokck@proton.me"
+```
+
+---
+
+## 🛠️ Tech Stack
+
+**Uso frecuentemente:**
+
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff00)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00ff00)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00ff00)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00ff00)
+![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=00ff00)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00ff00)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00ff00)
+![Android](https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android&logoColor=00ff00)
+
+**Aprendiendo:**
+
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=ff66ff)
+![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=ff66ff)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=ff66ff)
+![Arduino](https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=arduino&logoColor=ff66ff)
+
+---
+
+## 🚀 Featured Projects
+
+[![vchat](https://github-readme-stats.vercel.app/api/pin/?username=Lukiblokck&repo=vchat&bg_color=000000&title_color=00ff00&text_color=ff66ff&icon_color=00ff00&border_color=00ff00)](https://github.com/Lukiblokck/vchat)
+[![Bronnikov Studios](https://github-readme-stats.vercel.app/api/pin/?username=Lukiblokck&repo=bronnikov-studios&bg_color=000000&title_color=00ff00&text_color=ff66ff&icon_color=00ff00&border_color=00ff00)](https://github.com/Lukiblokck)
+
+> 💡 *Más proyectos en [github.com/lukiblokck](https://github.com/lukiblokck)*
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Lukiblokck&show_icons=true&bg_color=000000&title_color=00ff00&text_color=ff66ff&icon_color=00ff00&border_color=00ff00&hide_border=false" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukiblokck&layout=compact&bg_color=000000&title_color=00ff00&text_color=ff66ff&border_color=00ff00" height="160"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lukiblokck&background=000000&ring=00ff00&fire=ff66ff&currStreakLabel=00ff00&sideLabels=00ff00&currStreakNum=ff66ff&sideNums=ff66ff&dates=aaaaaa" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Lukiblokck&theme=matrix&no-frame=true&row=1" />
+
+</div>
+
+---
+
+## 🌐 Find Me
+
+<div align="center">
+
+[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/lukiblokck)
+[![dev.to](https://img.shields.io/badge/dev.to-000000?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/lukiblokck)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0a77b6)](https://www.linkedin.com/in/nikolai-meléndez-bronnikov-3947982b8)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=F35369)](https://www.instagram.com/lukiblokck)
+[![YouTube](https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=cc0000)](https://www.youtube.com/@lukiblokck_juega)
+[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/lukiblokck)
+[![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com/users/1121089195230888036)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=githubpages&logoColor=00ff00)](https://lukiblokck.github.io)
+
+</div>
+
+---
+
+## 🔵 Discord Presence
+
+<div align="center">
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1121089195230888036?theme=dark&bg=000000&borderRadius=10px&idleMessage=Probably%20building%20something...)](https://discord.com/users/1121089195230888036)
+
+</div>
+
+---
+
+## 🎮 Bronnikov Studios
+
+> Indie game dev studio. Check out what we're building:
+
+[![Bronnikov Studios](https://img.shields.io/badge/GitHub-Bronnikov_Studios-000000?style=for-the-badge&logo=github&logoColor=00ff00)](https://github.com/Bronnikov-Studios)
+[![GameJolt](https://img.shields.io/badge/GameJolt-Bronnikov_Studios-000000?style=for-the-badge&logo=gamejolt&logoColor=ff66ff)](https://bronnikov.gamejolt.io)
+
+---
+
+## ❤️ Support
+
+<div align="center">
+
+*If something I built saved you time or made you smile:*
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-000000?style=for-the-badge&logo=buymeacoffee&logoColor=FFDD00)](https://www.buymeacoffee.com/lukiblokck)
+
+</div>
+
+---
+
+<div align="center">
+
+`> _` &nbsp; **lukiblokck** · Building since 2017 · Bilbao, Basque Country
+
+</div>
