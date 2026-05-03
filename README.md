@@ -9,7 +9,7 @@
 ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝
 ```
 
-### `> I build things that shouldn't exist yet.`
+### `> I love making new things.`
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Developer+since+2017;Discord+Bots+%7C+Web+Apps+%7C+Embedded+Systems;Always+building%2C+always+learning)](https://git.io/typing-svg)
 
