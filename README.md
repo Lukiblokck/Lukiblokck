@@ -23,7 +23,7 @@
 class Luki:
     name       = "Bronnikov"
     alias      = "Lukiblokck"
-    location   = "SPain / Russia"
+    location   = "Spain / Russia"
     started    = 2017  # Scratch → and never stopped
 
     stack      = ["Python", "JavaScript", "HTML/CSS", "Bash"]
