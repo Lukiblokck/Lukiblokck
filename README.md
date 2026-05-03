@@ -31,7 +31,7 @@ class Luki:
     
     building   = ["Discord bots", "Web apps", "Embedded systems", "Game projects"]
     
-    contact    = "lukiblokck@proton.me"
+    contact    = "lukiblokck@proton.me", "lukiblokck@keemail.me"
 ```
 
 ---
