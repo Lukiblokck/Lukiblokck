@@ -61,9 +61,9 @@ class Luki:
 ## 🚀 Featured Projects
 
 [![vchat](https://github-readme-stats.vercel.app/api/pin/?username=Lukiblokck&repo=vchat&bg_color=000000&title_color=00ff00&text_color=ff66ff&icon_color=00ff00&border_color=00ff00)](https://github.com/Lukiblokck/vchat)
-[![Bronnikov Studios](https://github-readme-stats.vercel.app/api/pin/?username=Lukiblokck&repo=bronnikov-studios&bg_color=000000&title_color=00ff00&text_color=ff66ff&icon_color=00ff00&border_color=00ff00)](https://github.com/Lukiblokck)
+[![Bronnikov Studios](https://github-readme-stats.vercel.app/api/pin/?username=Bronnikov-Studios&repo=NOMBRE_DEL_REPO&bg_color=000000&title_color=00ff00&text_color=ff66ff&icon_color=00ff00&border_color=00ff00)](https://github.com/Bronnikov-Studios)
 
-> 💡 *Más proyectos en [github.com/lukiblokck](https://github.com/lukiblokck)*
+> 💡 *More proyects in [github.com/lukiblokck](https://github.com/lukiblokck)*
 
 ---
 
@@ -99,7 +99,7 @@ class Luki:
 
 ---
 
-## 🔵 Discord Presence
+## 🔵 Discord
 
 <div align="center">
 
@@ -132,6 +132,6 @@ class Luki:
 
 <div align="center">
 
-`> _` &nbsp; **lukiblokck** · Building since 2017 · Bilbao, Basque Country
+`> _` &nbsp; **lukiblokck** · Building since 2017
 
 </div>
