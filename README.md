@@ -21,9 +21,9 @@
 
 ```python
 class Luki:
-    name       = "Nikolai Meléndez Bronnikov"
+    name       = "Bronnikov"
     alias      = "Lukiblokck"
-    location   = "Bilbao, Basque Country 🇪🇸"
+    location   = "SPain / Russia"
     started    = 2017  # Scratch → and never stopped
 
     stack      = ["Python", "JavaScript", "HTML/CSS", "Bash"]
