@@ -38,7 +38,7 @@ class Luki:
 
 <h2>🛠️ Tech Stack</h2>
 
-<h4>Uso frecuentemente</h4>
+<h4>Frequently used</h4>
 
 <p>
 <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff00" alt="Python"/>
@@ -51,7 +51,7 @@ class Luki:
 <img src="https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android&logoColor=00ff00" alt="Android"/>
 </p>
 
-<h4>Aprendiendo</h4>
+<h4>Currently learning</h4>
 
 <p>
 <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=ff66ff" alt="C++"/>
@@ -69,7 +69,7 @@ class Luki:
 <a href="https://github.com/Bronnikov-Studios"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bronnikov-Studios&repo=REPLACE_WITH_REPO_NAME&bg_color=000000&title_color=00ff00&text_color=ff66ff&icon_color=00ff00&border_color=00ff00" alt="Bronnikov Studios project"/></a>
 </p>
 
-> 💡 Más proyectos en [github.com/Lukiblokck](https://github.com/Lukiblokck)
+> 💡 More projects on [github.com/Lukiblokck](https://github.com/Lukiblokck)
 
 <br>
 
@@ -119,7 +119,7 @@ class Luki:
 
 <h2>🎮 Bronnikov Studios</h2>
 
-> Indie game dev studio. Esto es lo que estamos construyendo:
+> Indie game dev studio. Here's what we're building:
 
 <p>
 <a href="https://github.com/Bronnikov-Studios"><img src="https://img.shields.io/badge/GitHub-Bronnikov_Studios-000000?style=for-the-badge&logo=github&logoColor=00ff00" alt="Bronnikov Studios GitHub"/></a>
@@ -132,7 +132,7 @@ class Luki:
 
 <div align="center">
 
-<i>Si algo que construí te ahorró tiempo o te sacó una sonrisa:</i>
+<i>If something I built saved you time or made you smile:</i>
 
 <a href="https://www.buymeacoffee.com/lukiblokck"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-000000?style=for-the-badge&logo=buymeacoffee&logoColor=FFDD00" alt="Buy Me A Coffee"/></a>
 
