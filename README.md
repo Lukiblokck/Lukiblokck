@@ -27,7 +27,7 @@ class Luki:
     started    = 2017  # Scratch → and never stopped
 
     stack      = ["Python", "JavaScript", "HTML/CSS", "Bash"]
-    learning   = ["C++", "C#", "MongoDB", "Arduino"]
+    learning   = ["Zig", "MongoDB", "Arduino"]
 
     building   = ["Discord bots", "Web apps", "Embedded systems", "Game projects"]
 
