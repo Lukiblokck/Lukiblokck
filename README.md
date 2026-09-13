@@ -22,14 +22,14 @@
 ```python
 class Luki:
     name       = "Bronnikov"
-    alias      = "Lukiblokck"
-    location   = "Spain / Russia"
+    alias      = ["Lukiblokck", "Luki"]
+    location   = "Cheboksary, Russia"
     started    = 2017  # Scratch → and never stopped
 
     stack      = ["Python", "JavaScript", "HTML/CSS", "Bash"]
     learning   = ["Zig", "MongoDB", "Arduino"]
 
-    building   = ["Discord bots", "Web apps", "Embedded systems", "Game projects"]
+    building   = ["Discord bots", "Web apps", "Embedded systems", "Game project"]
 
     contact    = ["lukiblokck@proton.me", "lukiblokck@keemail.me"]
 ```
